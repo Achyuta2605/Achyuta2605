@@ -78,7 +78,7 @@ flowchart LR
 
 I run a LinkedIn video series, **"10 problems companies face adopting AI"**: data readiness, legacy systems, inference cost, ROI, trust and explainability, each with how real engineering teams solve it.
 
-➡️ [Follow on LinkedIn](https://www.linkedin.com/in/TODO) <!-- TODO: LinkedIn URL -->
+<!-- TODO: ➡️ [Follow on LinkedIn](https://www.linkedin.com/in/TODO) -->
 
 ---
 
@@ -95,8 +95,8 @@ I run a LinkedIn video series, **"10 problems companies face adopting AI"**: dat
 
 ## Contact
 
-- **LinkedIn:** [linkedin.com/in/TODO](https://www.linkedin.com/in/TODO) <!-- TODO -->
-- **Email:** TODO <!-- TODO -->
+<!-- TODO: - **LinkedIn:** [linkedin.com/in/TODO](https://www.linkedin.com/in/TODO) -->
+<!-- TODO: - **Email:** TODO -->
 - **GitHub:** [@Achyuta2605](https://github.com/Achyuta2605)
 
 Hiring for someone who can sit with a customer, design the agent system, and ship it to production? Let's talk.
