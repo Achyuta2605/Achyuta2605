@@ -78,7 +78,7 @@ flowchart LR
 
 I run a LinkedIn video series, **"10 problems companies face adopting AI"**: data readiness, legacy systems, inference cost, ROI, trust and explainability, each with how real engineering teams solve it.
 
-<!-- TODO: ➡️ [Follow on LinkedIn](https://www.linkedin.com/in/TODO) -->
+➡️ [Follow on LinkedIn](https://www.linkedin.com/in/achyuta-m-51b823224/)
 
 ---
 
@@ -89,13 +89,13 @@ I run a LinkedIn video series, **"10 problems companies face adopting AI"**: dat
 - **Looking for:** AI Engineer, Agentic AI Engineer, Forward Deployed Engineer
 - **Core skills:** agentic AI, AI agents, LLM system design, MCP, RAG, context engineering, evals, guardrails, LLM observability, Python, TypeScript
 - **Flagship project:** AgentOverwatch, an open-source (Apache 2.0) security gateway for AI agents and MCP tools
-- **Location:** India · open to remote and relocation (US, Europe, UAE)
+- **Location:** Chennai, India · open to remote and relocation (US, Europe, UAE)
 
 ---
 
 ## Contact
 
-<!-- TODO: - **LinkedIn:** [linkedin.com/in/TODO](https://www.linkedin.com/in/TODO) -->
+- **LinkedIn:** [linkedin.com/in/achyuta-m-51b823224](https://www.linkedin.com/in/achyuta-m-51b823224/)
 <!-- TODO: - **Email:** TODO -->
 - **GitHub:** [@Achyuta2605](https://github.com/Achyuta2605)
 
